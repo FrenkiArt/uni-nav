@@ -6,6 +6,16 @@
 
 ###### npm i uni-nav
 
+### Пример использования
+
+const menu = new mobileNav({
+trigersList: '#triger1',
+mainNav: '.navigation',
+navPosition: 'left',
+disableAt: 800,
+});
+menu.startFns();
+
 # Class: mobileNav
 
 ## mobileNav(args)
