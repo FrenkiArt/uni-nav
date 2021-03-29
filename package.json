@@ -6,7 +6,7 @@
   },
   "name": "uni-nav",
   "description": "Моя версия универальной навигации для мобильных и обычных устройств",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "ansi-colors": "^4.1.1",
